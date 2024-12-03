@@ -8,6 +8,11 @@ Highlights our commitment to leveraging technology to solve societal challenges 
 
 我们团队参加了Google的Gemma大模型黑客松开发者竞赛，基于最新的Gemma2大模型开发了一款名为“社区医生”的智能机器人。通过自然语言处理技术和大语言模型的能力，“社区医生”可以高效地帮助社区居民完成常见疾病诊断建议、健康咨询、以及患者随访记录等任务。我们的项目最终在竞赛中获得了第三名的优异成绩。我们希望通过Gemma大模型技术，为社区居民提供便捷的智能医疗服务，在患者咨询、诊断建议等方面提供支持，助力基层医疗的发展。    
 
+![image](https://github.com/user-attachments/assets/8f71e6a2-bd7d-4567-8281-4283848e3d2c)
+1、中医
+2、效果好
+3、多模态
+
 ![image](https://github.com/user-attachments/assets/f36d4508-382c-4070-b245-b5c8c67cee3c)
 
 1.模型选择与微调：  
